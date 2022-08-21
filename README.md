@@ -2,16 +2,16 @@
 
 In order to to run this program open this project in pycharm/visualcode IDE:
 
-1> Setup the new conda environment with python==3.7.11
-       ** conda create -n envname python==3.7.11**
+1. Setup the new conda environment with python==3.7.11
+       **conda create -n envname python==3.7.11**
         
-2> Activate the new environment
-3> Install from requirements.txt 
+2. Activate the new environment
+3. Install from requirements.txt 
         **pip install -r requirements.txt**
-4> Run the main.py
+4. Run the main.py
 
 **Problem Statement**
-To build a classification methodology to predict whether Credit card fraud happens or not.
+a. To build a classification methodology to predict whether Credit card fraud happens or not.
  ![image](https://user-images.githubusercontent.com/23423463/154792393-37ea2327-ab5e-4fb4-b0d2-0eb38c793ce1.png)
 
 **Data Description**
